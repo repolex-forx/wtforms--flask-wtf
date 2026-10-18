@@ -1,0 +1,11 @@
+{
+  "org": "wtforms",
+  "repo": "flask-wtf",
+  "versions": [
+    {
+      "commit": "7c57f3e70df2852022a415714bc7f49113dd9b4f",
+      "tag": "",
+      "parsed_at": "2026-10-18T13:26:58.617538+00:00"
+    }
+  ]
+}
