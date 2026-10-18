@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/wtforms/flask-wtf/commit/7c57f3e70df2852022a415714bc7f49113dd9b4f",
       "git:hexsha": "7c57f3e70df2852022a415714bc7f49113dd9b4f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/wtforms/flask-wtf/commit/dc786301c5b6c10a8b1b256d9820c8a7a932d99c",
